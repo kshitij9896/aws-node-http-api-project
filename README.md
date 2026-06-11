@@ -27,7 +27,7 @@ $ serverless deploy
 After deploying, you should see output similar to:
 
 ```bash
-Deploying aws-node-http-api-project to stage dev (us-east-1)
+Deploying aws-node-http-api-project to stage dev (ap-south-1)
 
 ✔ Service deployed to stack aws-node-http-api-project-dev (152s)
 
