@@ -11,7 +11,7 @@ provider:
       Action:
         - dynamodb:*
       Resource:
-        - arn:aws:dynamodb:ap-south-1:[youtawsuserid]:table/KaamKaro
+        - arn:aws:dynamodb:ap-south-1:[yourawsuserid]:table/KaamKaro
 
 functions:
   hello:
